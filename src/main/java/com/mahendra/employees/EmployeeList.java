@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 // List of employees
-public class EmployeeList {
+public class EmployeeList 
     private static final List<Employee> employeeList = new ArrayList();
     
     private EmployeeList(){
